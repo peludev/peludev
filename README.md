@@ -51,3 +51,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools">
 </p>
+
+## Featured Projects
+
+| N° | Project | Role | Tools and Tech Stack | What it does | Client / Context | Link |
+|---:|----------|------|------------|---------|------------------|------|
+| 1. | Testimonial CMS | **QA Tester** | ·Next ·SpringBoot ·.Net ·PostgreSQL ·Docker ·Postman ·Jira | Testimonial CMS is a solution designed for the Edtech sector. This specialized Content Management System allows institutions and companies with active communities to demonstrate the impact of their programs through authentic, real-world stories. It aimed to build a robust platform to collect, organize, and publish testimonials and success stories across multiple formats (text, video, and image). | No Country | [Repository](https://github.com/No-Country-simulation/s03-26-e24-web-app-dev) |
+| 2. | Predictive Maintenance | **Data Analyst** | ·Python ·Next ·Node.js ·Express ·PostgreSQL ·Prisma ORM ·Docker ·GitHub Projects | Predictive Maintenance is a solution designed for the industrial and manufacturing sector. The system uses machine sensor data, maintenance history, and predictive analytics to identify signs of equipment deterioration and anticipate potential failures before they result in unexpected production downtime. The platform aims to transform raw operational and maintenance data into actionable information, helping maintenance teams identify high-risk machines, understand the signals associated with potential failures, prioritize interventions, and plan maintenance activities proactively. | No Country | [Repository](https://github.com/No-Country-simulation/S08-26-equipo-37) |
+
