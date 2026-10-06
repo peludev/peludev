@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  
 **Data Science & Libraries**
 
 <p>
@@ -36,11 +42,9 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
 
-**Databases & Data Visualization**
+**Data Visualization**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </p>
@@ -54,8 +58,8 @@
 
 ## Featured Projects
 
-| N° | Project | Role | Tools and Tech Stack | What it does | Client / Context | Link |
-|---:|----------|------|------------|---------|------------------|------|
-| 1. | Testimonial CMS | **QA Tester** | ·Next ·SpringBoot ·.Net ·PostgreSQL ·Docker ·Postman ·Jira | Testimonial CMS is a solution designed for the Edtech sector. This specialized Content Management System allows institutions and companies with active communities to demonstrate the impact of their programs through authentic, real-world stories. It aimed to build a robust platform to collect, organize, and publish testimonials and success stories across multiple formats (text, video, and image). | No Country | [Repository](https://github.com/No-Country-simulation/s03-26-e24-web-app-dev) |
-| 2. | Predictive Maintenance | **Data Analyst** | ·Python ·Next ·Node.js ·Express ·PostgreSQL ·Prisma ORM ·Docker ·GitHub Projects | Predictive Maintenance is a solution designed for the industrial and manufacturing sector. The system uses machine sensor data, maintenance history, and predictive analytics to identify signs of equipment deterioration and anticipate potential failures before they result in unexpected production downtime. The platform aims to transform raw operational and maintenance data into actionable information, helping maintenance teams identify high-risk machines, understand the signals associated with potential failures, prioritize interventions, and plan maintenance activities proactively. | No Country | [Repository](https://github.com/No-Country-simulation/S08-26-equipo-37) |
+| N° | Project | Sector | Role | Tools and Tech Stack | What it does | Client / Context | Link |
+|---:|----------|------|------|------------|---------|------------------|------|
+| 1. | Testimonial CMS | **EdTech** | **QA Tester** | ·Next ·React ·SpringBoot ·.Net ·PostgreSQL ·Docker ·Postman ·Jira | This specialized Content Management System allows institutions and companies with active communities to demonstrate the impact of their programs through authentic, real-world stories. It aimed to build a robust platform to collect, organize, and publish testimonials and success stories across multiple formats (text, video, and image). | No Country | [Repository](https://github.com/No-Country-simulation/s03-26-e24-web-app-dev) |
+| 2. | Predictive Maintenance | **Industrial & Manufacturing** | **·Data Analyst ·Project Manager** | ·Next ·React ·PostgreSQL ·Prisma ORM ·Python ·FastAPI ·Docker ·GitHub Projects ·GitHub Actions | The system uses machine sensor data, maintenance history, and predictive analytics to identify signs of equipment deterioration and anticipate potential failures before they result in unexpected production downtime. The platform aims to transform raw operational and maintenance data into actionable information, helping maintenance teams identify high-risk machines, understand the signals associated with potential failures, prioritize interventions, and plan maintenance activities proactively. | No Country | [Repository](https://github.com/No-Country-simulation/S08-26-equipo-37) |
 
